@@ -1,26 +1,22 @@
-<div align="center">
-  <h2>Hi there 👋, I'm Tejeswara Rao Sirugudu!</h2>
+<div align="Left">
+<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
+  <h2 style="margin: 0; flex-grow: 1;">Hi there 👋, I'm Tejeswara Rao Sirugudu!</h2>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejeswararao-sirugudu.tejeswararao-sirugudu&title=Profile%20Viewers" height="25" alt="Profile Viewers" style="flex-shrink: 0;" />
+</div>
   <p>
     Passionate <strong>Data Analyst</strong> skilled in <strong>SQL, Python, Data Visualization, and Machine Learning</strong>.  
     Transforming raw data into actionable insights to drive business success.  
   </p>
   <p>📊 Data Enthusiast | 💡 Problem Solver | 📈 Insight-Driven Decision Maker</p>
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejeswararao-sirugudu.tejeswararao-sirugudu&"  />
 </div>
 
 ---
 
 ## 🌟 About Me  
 
-Hello! I'm **Tejeswara Rao Sirugudu**, a **Data Analyst** with **4 years of experience** in **Data Analytics, Business Intelligence, and Machine Learning**. I specialize in **data-driven decision-making**, transforming complex datasets into **actionable insights** for business growth.  
+Hello! I'm a **Data Analyst** with **4 years of experience** in **Data Analytics, Business Intelligence, and Machine Learning**. I specialize in **data-driven decision-making**, transforming complex datasets into **actionable insights** for business growth.  
 
-🔭 **Currently Working As:** Data Analyst at **[Company Name]**  
+🔭 **Currently Working As:** Data Analyst at **HCL Technologies**  
 📚 **Education:** MS in **Data Science & Machine Learning** (Woolf University via Scaler Academy)  
 💡 **Expertise:** SQL, Python, Data Visualization, Machine Learning, Statistical Analysis  
 🤝 **Passionate about helping others in Data Analytics, Data Science, and Machine Learning!**  
@@ -74,29 +70,18 @@ Hello! I'm **Tejeswara Rao Sirugudu**, a **Data Analyst** with **4 years of expe
 ## 📧 Contact  
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/tejeswararao-sirugudu-84a11b224">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/xyz">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub" />
-  </a>
-  </a>
-  <a href="mailto:tejavishnu2000@gmail.com">
+ <a href="mailto:tejavishnu2000@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
+</a>
+
+<a href="tel:+919110703897">
+  <img src="https://img.shields.io/static/v1?message=Call&logo=phone&label=&color=34A853&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Phone" />
+</a>
+
+<a href="https://www.linkedin.com/in/tejeswararao-sirugudu-84a11b224">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
 </a>
 </div>
 
-📩 **Email:** tejeswararao@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/tejeswararao-sirugudu-84a11b224](https://www.linkedin.com/in/tejeswararao-sirugudu-84a11b224)  
-🐙 **GitHub:** [github.com/xyz](https://github.com/xyz)  
 
----
 
-### ✅ Changes in This Version:
-✅ **Each skill is now listed separately for better readability**  
-✅ **Maintained professional structure & icons for a recruiter-friendly design**  
-✅ **Ensured clarity and structure (About Me → Skills → Projects → Contact)**  
-
-🔥 **This is now visually structured, clean, and optimized! 🚀**  
-
-Let me know if you need **any more tweaks!** 😊  
